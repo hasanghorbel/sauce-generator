@@ -1,0 +1,3 @@
+run command
+cargo run -- -m <your message> -s <sauce capacity>
+-m and -s are optional you can cargo run on default
