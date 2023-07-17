@@ -13,3 +13,5 @@ cargo run --release -- -m <your message> -s <sauce capacity>
 ```
 cargo run
 ```
+
+![test](https://github.com/IsekaiCode/sauce-generator/assets/109307799/ea7723a3-776e-4005-baac-9cadaff78b61)
