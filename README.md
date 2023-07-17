@@ -1,7 +1,7 @@
 # sauce-generator
-!! don't run it on cmd or else the msg doesn't show
+## !! don't run it on cmd or else the msg doesn't show
 
-run it on git bash !!
+## run it on git bash !!
 #### run command:
 ```
 cargo run -- -m <your message> -s <sauce capacity>
