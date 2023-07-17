@@ -1,11 +1,1 @@
-# Sauce-Generator
-!! don't run it on cmd or else the msg doesn't show
-run it on git bash !!
-## run command
-```
-cargo run -- -m <your message> -s <sauce capacity>
-```
-```
--m and -s are optional you can cargo run on default
-```
 
