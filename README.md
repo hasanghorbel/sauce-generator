@@ -1,4 +1,4 @@
-# Sauce-Generator
+# Sauce Generator
 ## !! don't run it on cmd or else the msg doesn't show
 
 ## run it on git bash !!
